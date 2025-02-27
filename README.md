@@ -1,4 +1,4 @@
-# TDFhaX
+# TPhaX
 Tudify Phone jailbreak tool for mac(not needed on tudifyOS 20)
 ![a screenshot of the app](https://tudify.co.uk/TudifyXhack.png)
 
